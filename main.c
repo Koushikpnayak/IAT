@@ -1,4 +1,2 @@
-#include <stdio.h>
-int main(){
-  printf("hello koushik");
-}
+this is intial line typed
+this is next line updated
